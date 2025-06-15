@@ -95,7 +95,7 @@ a {
 .bg-theme {
   color: var(--bs-supporting-color);
   background-image: none !important;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 .bg-theme1{
